@@ -27,3 +27,5 @@ I have used Tkinter for the UI in python.
 - **Simply put the URL of the target.**  
 - **Run and Filter.**  
 - **Export.**  
+![image](https://user-images.githubusercontent.com/48627542/230473120-ec42b81c-2c3d-4fb0-a18c-96f4059cb8c2.png)
+
