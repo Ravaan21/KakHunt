@@ -94,7 +94,7 @@ class Application(tk.Frame):
 
         # Create buttons to filter by file extension
 
-        self.extensions = ['.js', '.py', '.mysql', '.env', '.json', '.db', '.pem', '.bak', '.php', '.xml', '.yml', '.yaml', '.txt', '.png', '.jpg', '.mp4', '.gz', '.log', '.env', '.html', '.cfg', '.php', '.sh', '.pdf', '.xls', '.config', '.csv', '.sqlite', '.sql', '.tmp']
+        self.extensions = ['.js', '.py', '.mysql', '.env', '.json', '.db', '.pem', '.bak', '.php', '.xml', '.yml', '.yaml', '.txt', '.png', '.md', '.mp4', '.gz', '.log', '.env', '.html', '.cfg', '.php', '.sh', '.pdf', '.xls', '.config', '.csv', '.sqlite', '.sql', '.tmp']
 
         self.filter_buttons = []
 
